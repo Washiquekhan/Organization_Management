@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+motor
+passlib[bcrypt]
+pyjwt
+python-dotenv
+email-validator
